@@ -12,4 +12,4 @@ Make sure to follow the project's coding style and guidelines.
 The Heritage Hall Project is open-source and released under the MIT License. 
 You can freely use, modify, and distribute the codebase in accordance with the terms and conditions of the license.
 # Contact
-If you have any questions or inquiries about the Travel Agency Project, please contact us at kledjalloshi10@gmail.com
+If you have any questions or inquiries about the Heritage Hall Project, please contact us at kledjalloshi10@gmail.com
